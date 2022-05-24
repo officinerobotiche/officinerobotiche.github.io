@@ -4,7 +4,7 @@ excerpt: "Un gruppo di amici appassionati di Robotica e non solo ..."
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/or-logo.jpg
+  overlay_image: /assets/images/robots.png
   actions:
   - label: "Chi siamo"
     url: "/chisiamo/"
