@@ -1,6 +1,6 @@
 ---
 title: "#000 Litofania 3D & Kicad"
-excerpt: "I had a Jetson Nano, which had a power problem, after some time while installing the OS it turns itself off. In this article I report the experience in question and some simple configuration steps"
+excerpt: "Primi prove pratiche con gli Aperitech, ma ricche di contenuti"
 header: 
     overlay_color: "#000"
     overlay_filter: "0.5"
@@ -13,6 +13,9 @@ tags:
   - kicad
   - litofania
   - 3d
+  - OR-Aperitech
+  - Gianluigi
+  - Mauro
 ---
 
 Il 23 Aprile siamo partiti con il primo OR-AperiTech interno, che poi sarebbe la puntata 0 per capire come utilizzare e sfruttare gli strumenti a disposizione.
