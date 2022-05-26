@@ -288,3 +288,14 @@ defaults:
       comments: # true
       share: true
       related: true
+  # _or-aperitech
+  - scope:
+      path: "_or-aperitech"
+      type: or-aperitech
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      read_time: true
+      sidebar:
+        nav: "OR Aperitech"
