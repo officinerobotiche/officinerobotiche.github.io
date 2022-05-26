@@ -14,7 +14,7 @@ feature_row:
   - image_path: /assets/or-aperitech/or-aperitech-teaser.png
     alt: "OR Aperitech"
     title: "OR Aperitech"
-    excerpt: "Appuntamenti online sul tema Robotico e non solo"
+    excerpt: "Rivedi tutti gli OR Aperitech con i temi proposti dal Team a dai nostri ospiti"
     url: "/or-aperitech"
     btn_label: "Read More"
     btn_class: "btn--primary"
@@ -22,15 +22,15 @@ feature_row:
   - image_path: /assets/projects/projects-teaser.png
     alt: "Progetti"
     title: "Progetti"
-    excerpt: "I nostri progetti"
+    excerpt: "Punto di raccolta di progetti realizzati dal Team"
     url: "/progetti"
     btn_label: "Read More"
     btn_class: "btn--primary"
 
-  - image_path: /assets/eventi/eventi-teaser.jpg
+  - image_path: /assets/eventi/eventi-teaser.png
     alt: "Eventi"
     title: "Eventi"
-    excerpt: "Eventi"
+    excerpt: "Incontri, workshop, corsi e non solo, organizzati dal Team"
     url: "/eventi"
     btn_label: "Read More"
     btn_class: "btn--primary"
