@@ -20,7 +20,7 @@ title                    : "Officine Robotiche"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "OR"
-description              : "An amazing website."
+description              : "We are an **amazing** group of friends"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -104,8 +104,8 @@ analytics:
 author:
   name             : "OR"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "We are an **amazing** group of friends."
-  location         : "Via Lattea, Sistema Solare, pianeta Terra"
+  bio              : "We are an **amazing** group of friends"
+  location         : "Pianeta Terra"
   email            :
   links:
     - label: "Email"
@@ -303,3 +303,14 @@ defaults:
       read_time: true
       sidebar:
         nav: "OR Aperitech"
+  # _projects
+  - scope:
+      path: "_projects"
+      type: projects
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      read_time: true
+      sidebar:
+        nav: "Progetti"
