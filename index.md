@@ -23,7 +23,7 @@ feature_row:
     alt: "Progetti"
     title: "Progetti"
     excerpt: "Punto di raccolta di progetti realizzati dal Team"
-    url: "/progetti"
+    url: "/projects"
     btn_label: "Read More"
     btn_class: "btn--primary"
 
