@@ -4,8 +4,8 @@ main:
     url: /chisiamo/
   - title: "Progetti"
     url: /progetti/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
+ - title: "Eventi"
+    url: /eventi/
   # - title: "Sitemap"
   #   url: /sitemap/
   #- title: "Quick-Start Guide"

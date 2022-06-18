@@ -281,6 +281,9 @@ collections:
   progetti:
     output: true
     permalink: /:collection/:path/
+  eventi:
+    output: true
+    permalink: /:collection/:path/
 
 # Defaults
 defaults:
@@ -317,3 +320,14 @@ defaults:
       read_time: true
       sidebar:
         nav: "Progetti"
+  # _eventi
+  - scope:
+      path: "_eventi"
+      type: eventi
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      read_time: true
+      sidebar:
+        nav: "Eventi"
