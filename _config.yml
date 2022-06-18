@@ -278,6 +278,9 @@ collections:
   or-aperitech:
     output: true
     permalink: /:collection/:path/
+  progetti:
+    output: true
+    permalink: /:collection/:path/
 
 # Defaults
 defaults:
