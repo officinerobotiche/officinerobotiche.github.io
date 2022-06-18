@@ -4,7 +4,7 @@ main:
     url: /chisiamo/
   - title: "Progetti"
     url: /progetti/
- - title: "Eventi"
+  - title: "Eventi"
     url: /eventi/
   # - title: "Sitemap"
   #   url: /sitemap/
