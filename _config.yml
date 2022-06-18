@@ -303,10 +303,10 @@ defaults:
       read_time: true
       sidebar:
         nav: "OR Aperitech"
-  # _projects
+  # _progetti
   - scope:
-      path: "_projects"
-      type: projects
+      path: "_progetti"
+      type: progetti
     values:
       layout: single
       author_profile: true

@@ -19,11 +19,11 @@ feature_row:
     btn_label: "Read More"
     btn_class: "btn--primary"
 
-  - image_path: /assets/projects/projects-teaser.png
+  - image_path: /assets/progetti/progetti-teaser.png
     alt: "Progetti"
     title: "Progetti"
     excerpt: "Punto di raccolta di progetti realizzati dal Team"
-    url: "/projects"
+    url: "/progetti"
     btn_label: "Read More"
     btn_class: "btn--primary"
 
