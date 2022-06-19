@@ -103,7 +103,7 @@ analytics:
 # Site Author
 author:
   name             : "OR"
-  avatar           : "/assets/images/or.jpg
+  avatar           : "/assets/images/or.jpg"
   bio              : "We are an **amazing** group of friends"
   location         : "Pianeta Terra"
   email            :
