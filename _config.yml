@@ -103,29 +103,29 @@ analytics:
 # Site Author
 author:
   name             : "OR"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/or.jpg
   bio              : "We are an **amazing** group of friends"
   location         : "Pianeta Terra"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+      url: "mailto:info@officinerobotiche.it"
+    - label: "YouTube"
+      icon: "fas fa-fw fa-youtube-square"
+      url: "https://www.youtube.com/channel/UCL7dZ5jMjHP7eWz8Wx9ONZA"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
+      url: "https://twitter.com/OfficineRobotic"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
+      url: "https://www.facebook.com/officinerobotiche/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://github.com/officinerobotiche"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      url: "https://instagram.com/officinerobotiche"
 
 # Site Footer
 footer:
