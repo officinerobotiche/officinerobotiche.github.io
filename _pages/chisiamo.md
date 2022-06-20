@@ -21,4 +21,4 @@ In questi giorni nasce Officine Robotiche come Associazione di Promozione Social
 
 ...
 
-Nel 2022, con sommo dispiacere, l'Associazione di Promozione Sociale viene chiusa, nonostante l'impegno che tutti nel nostro piccolo abbiamo messo a disposizione, la gestione di un'associazione era diventato un peso che facevamo fatica a sopportare. Quindi di comune accordo abbiamo deciso di chiudere questa bellissima parentesi e tornare ad essere quel **gruppo di amici** che eravamo sempre stati.
+Di comune accordo abbiamo deciso di tornare a essere quel gruppo di amici che eravamo sempre stati e Officine Robotiche continua a vivere come una sorta di "brand", come un progetto all'interno di AssoInnovazione.it che ne coprira gli aspetti istituzionali!
