@@ -1,5 +1,7 @@
 # main links
 main:
+  - title: "Blog"
+    url: /posts/
   - title: "Chi siamo"
     url: /chisiamo/
   - title: "Progetti"
