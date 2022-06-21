@@ -4,10 +4,9 @@ excerpt: "Presentazione della JetRacer & Donkey Car"
 header: 
     overlay_color: "#000"
     overlay_filter: "0.5"
-    overlay_image: /assets/or-aperitech/2020-06-17-or-aperitech-jetracer-donkey-car/or-aperitech-teaser.png
-    teaser: /assets/or-aperitech/2020-06-17-or-aperitech-jetracer-donkey-car/or-aperitech-teaser.png
+    overlay_image: /assets/or-aperitech/2020-06-17-or-aperitech-jetracer-donkey-car/jet-racer-donkey-car-teaser.jpg
+    teaser: /assets/or-aperitech/2020-06-17-or-aperitech-jetracer-donkey-car/jet-racer-donkey-car-teaser.jpg
 categories:
-  #- Blog
   - OR-Aperitech
 tags:
   - nvidia
@@ -16,7 +15,7 @@ tags:
   - ai
   - ml
   - robot
-  - Alessio
+  - alessio
 ---
 
 È stato presentato da Alessio Morale, già VicePresidente e attuale consigliere di Officine Robotiche.
@@ -27,5 +26,5 @@ Donkey, invece, é una libreria ad alto livello scritta in Python per creare pic
 
 {% include video id="SklPyl4sccM" provider="youtube" %}
 
-**[:: Clicca qui per scaricare le slide ::](/assets/or-aperitech/2020-06-17-or-aperitech-jetracer-donkey-car/presentazione.pdf)**
+**[:: Clicca qui per scaricare le slide ::](/assets/or-aperitech/2020-06-17-or-aperitech-jetracer-donkey-car/jet-racer-donkey-car.pdf)**
 {: .text-center}
