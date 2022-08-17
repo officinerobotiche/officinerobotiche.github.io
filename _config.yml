@@ -110,7 +110,7 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:info@officinerobotiche.it"
+      url: "mailto:info@officinerobotiche.org"
     - label: "YouTube"
       icon: "fab fa-fw fa-youtube"
       url: "https://www.youtube.com/channel/UCL7dZ5jMjHP7eWz8Wx9ONZA"
@@ -132,7 +132,7 @@ footer:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:info@officinerobotiche.it"
+      url: "mailto:info@officinerobotiche.org"
     - label: "YouTube"
       icon: "fas fa-fw fa-youtube"
       url: "https://www.youtube.com/channel/UCL7dZ5jMjHP7eWz8Wx9ONZA"
